@@ -15,6 +15,14 @@ layout: none
 <p>It may not be the prettiest, but a crashed site is worse.</p>
 
 </div>
+<ul>
+{% for page in site.pages %}
+{% if page.list %}
+<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+
+</ul>
 
 
 		
