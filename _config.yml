@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://a.mattcleaver.com
+url:                 http://www.vntlnp.com
 paginate:            1
 baseurl:             ""
 
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/cleaversolutions/vntlnp.com.git
 
 # Gems
 gems:
